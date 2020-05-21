@@ -1,6 +1,6 @@
 # Casa Criativa - WorkshopDev
 
-![Casa Criativa](public/logo.png)
+<center>![Casa Criativa](public/logo.png)</center>
 
 ## Sobre
 
