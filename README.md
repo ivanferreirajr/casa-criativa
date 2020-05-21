@@ -1,6 +1,8 @@
-# ![Casa Criativa](./public/logo.png)
+<h1 align="center">
+    <img alt="Casa Criativa" title="#delicinha" src="./public/logo.png" width="250px" />
+</h1>
 
-## Sobre
+## Projeto
 
 A Casa Criativa tem como objetivo catalogar ideias para tornar momentos de tédio em algo interessantes, e tudo isso no conforto do seu lar. 
 
@@ -14,10 +16,10 @@ Este projeto com desenvolvido durante a semana WorkshopDev realizado pela [Rocke
 
 ## Dependências
 
-* Express
-* Nodemon 
-* Nunjucks
-* SQLite
+* [Express](expressjs.com)
+* [Nodemon](https://nodemon.io/)
+* [Nunjucks](https://www.npmjs.com/package/nunjucks)
+* [SQLite](https://www.npmjs.com/package/sqlite3)
 
 ## Tutorial
 
